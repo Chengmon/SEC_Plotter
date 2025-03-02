@@ -12,3 +12,6 @@ GUI to plot SEC profile from AKTA Unicorn output (zip file)
 
 ## Requirements
 - Python: `matplotlib`, `numpy`, `pycorn`, `ttkthemes` (for source).
+
+  ![image](https://github.com/user-attachments/assets/77f63c4d-5642-4392-a6e2-6405458a467e)
+
