@@ -2,7 +2,7 @@
 GUI to plot SEC profile from AKTA Unicorn output (zip file)
 
 ## Usage
-1. Obtain the zip file for the SEC profile from the AKTA UNICORN Evalution Module. 
+1. Obtain the '.zip' file for the SEC profile from the AKTA UNICORN Evalution Module. 
 2. Run `python SEC.py` (with Python).
 3. Select a `.zip` file, click "Generate Plot," adjust limits if needed, and save as PNG/JPG.
 
